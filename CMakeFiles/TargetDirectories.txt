@@ -1,0 +1,3 @@
+/Users/yaoshuw/Desktop/Project/Jaro-Winkler/JWSearch/CMakeFiles/rebuild_cache.dir
+/Users/yaoshuw/Desktop/Project/Jaro-Winkler/JWSearch/CMakeFiles/edit_cache.dir
+/Users/yaoshuw/Desktop/Project/Jaro-Winkler/JWSearch/CMakeFiles/JWSearch.dir
